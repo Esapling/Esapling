@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Esapling
-- 👀 I’m interested in Artifical Intelligence , Machine Learning , History , Physics and Maths , and learning Languages..
+- 👀 I’m interested in Artifical Intelligence , Machine Learning , History , Physics, Maths , and learning new Languages..
 - 🌱 I’m currently learning Python, C++, Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on ... so many projects soon.
 - 📫 Reach me -- sirssapling@gmail.com 
